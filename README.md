@@ -23,4 +23,4 @@ En caso de querer  montar la imágen directamente, introducir lo siguiente:
   127.0.0.1:5901 
 ```
 *La imagen se encuentra en:*
-` https://hub.docker.com/repository/docker/darmon04/actividad2/tags`
+`https://hub.docker.com/repository/docker/darmon04/actividad2/tags`
