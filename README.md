@@ -5,7 +5,7 @@ Esta imagen de docker lleva:
 > - Python
 > - OpenSSH
 
-*Derechos de: Àxel*
+*Derechos de: Àxel G*
  
  # Construir la imagen con docker build: 
  - Copiar el contenido del archivo llamado Dockerfile y xstartup
