@@ -1,6 +1,6 @@
  # Construir la imatge amb docker build: 
- 1. Copiar el contenido del archivo llamado Dockerfile y xstartup
- 2. Poner el siguiente comando:
+ - Copiar el contenido del archivo llamado Dockerfile y xstartup
+ - Poner el siguiente comando:
 ```
   docker build -t x .
 ```
