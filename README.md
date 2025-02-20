@@ -1,4 +1,4 @@
- # Construir la imatge amb docker build: 
+ # Construir la imagen con docker build: 
  - Copiar el contenido del archivo llamado Dockerfile y xstartup
  - Poner el siguiente comando:
 ```
@@ -11,13 +11,13 @@ En caso de querer  montar la imágen directamente, introducir lo siguiente:
   docker pull darmon04/actividad2:latest
 ```
 
-# Executar un nou contenidor amb docker run: 
+# Ejecutar un nuevo contenedor con docker run: 
 - Una vez ejecutado lo anteriormente mencionado, encendemos el contenedor con:
 ```
   docker run -d -p 5901:5901 -p 2222:22 --name x y
 ```
 *x = nombre contenedor, y = nombre imagen*
- # Connectar-se amb un client VNC
+ # Connectarse con un cliente VNC
  - Entramos a la APP llamada Remmina y introducimos lo siguiente:
 ```
   127.0.0.1:5901 
