@@ -1,3 +1,12 @@
+# INFO IMPORTANTE
+Esta imagen de docker lleva:
+> - Visual Studio Code
+> - Interfaz gráfica tight
+> - Python
+> - OpenSSH
+
+*Derechos de: Àxel*
+ 
  # Construir la imagen con docker build: 
  - Copiar el contenido del archivo llamado Dockerfile y xstartup
  - Poner el siguiente comando:
