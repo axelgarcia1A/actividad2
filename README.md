@@ -1,4 +1,4 @@
-# INFO IMPORTANTE
+# INFORMACIÓN IMPORTANTE
 Esta imagen de docker lleva:
 > - Visual Studio Code
 > - Interfaz gráfica tight
